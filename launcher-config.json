@@ -3,7 +3,7 @@
   "serverPort": 13001,
   "webIp": "https://happy-server-1.blogspot.com/",
   "webPort": 80,
-  "patchInfoUrl": "https://happy-server-1.blogspot.com/patch-info.json",
+  "patchInfoUrl": "https://raw.githubusercontent.com/etlee3341/standard/main/patch-info.json",
   "notice": "[공지]\r\n해피서버에 오신 것을 환영합니다.\r\n즐거운 시간 되세요.",
   "maintenance": false,
   "maintenanceMessage": "현재 서버 점검 중입니다. 잠시 후 다시 접속해주세요."
