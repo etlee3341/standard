@@ -1,6 +1,6 @@
 {
   "serverIp": "112.166.32.8",
-  "serverPort": 13001,
+  "serverPort": 9002,
   "webIp": "https://happy-server-1.blogspot.com/",
   "webPort": 80,
   "patchInfoUrl": "https://raw.githubusercontent.com/etlee3341/standard/main/patch-info.json",
