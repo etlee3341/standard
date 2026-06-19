@@ -6,7 +6,7 @@
   "webIp": "112.166.32.8",
   "webPort": 80,
   "patchInfoUrl": "https://raw.githubusercontent.com/etlee3341/standard/main/patch-info.json",
-  "notice": "[공지사항]\r\n해피서버에 오신 것을 환영합니다.\r\n즐거운 시간 되세요.\r\n1. 서버 초기화 일정 예정을 추후 말씀드리겠습니다. 2. 최대한 밸런스 조절에 힘쓰고 있습니다.",
+  "notice": "[공지사항]\r\n해피서버에 오신 것을 환영합니다.\r\n즐거운 시간 되세요.\r\n1. 서버 초기화 일정 예정을 추후 말씀드리겠습니다. \r\n2. 최대한 밸런스 조절에 힘쓰고 있습니다.",
   "maintenance": false,
   "maintenanceMessage": "현재 서버 점검 중입니다. 잠시 후 다시 접속해주세요."
 }
