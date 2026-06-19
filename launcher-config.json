@@ -1,7 +1,9 @@
 {
-  "serverIp": "happyserver.ddns.net",
+  "serverOpen": true,
+  "serverStatusMessage": "정상 운영 중입니다.",
+  "serverIp": "112.166.32.8",
   "serverPort": 9002,
-  "webIp": "happyserver.ddns.net",
+  "webIp": "112.166.32.8",
   "webPort": 80,
   "patchInfoUrl": "https://raw.githubusercontent.com/etlee3341/standard/main/patch-info.json",
   "notice": "[공지]\r\n해피서버에 오신 것을 환영합니다.\r\n즐거운 시간 되세요.",
