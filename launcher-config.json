@@ -1,5 +1,5 @@
 {
-  "serverOpen": true,
+  "serverOpen": false,
   "serverStatusMessage": "정상 운영 중입니다.",
   "serverIp": "112.166.32.8",
   "serverPort": 9002,
